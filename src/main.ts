@@ -7,10 +7,10 @@ async function bootstrap() {
   app.enableCors();
 
   const swaggerConfig = new DocumentBuilder()
-    .setTitle('Menu Back')
-    .setDescription('Menu for your dinner')
+    .setTitle('to do list')
+    .setDescription('to do list')
     .setVersion('1.0')
-    .addTag('Menu')
+    .addTag('to do list')
     .build();
 
   const documentFactory = () =>
