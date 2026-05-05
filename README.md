@@ -41,7 +41,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados no seu amb
 
 **1. Clone ou acesse o repositório:**
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <https://github.com/Carlosjunior2215/todo-list-back>
 cd todoListBack
 ```
 
